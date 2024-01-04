@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543335975137",
+    "project_id": "mybrickhub-3ba41",
+    "storage_bucket": "mybrickhub-3ba41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543335975137:android:67d4db39de932019ae0fa0",
+        "android_client_info": {
+          "package_name": "com.mybrickhub.brickpicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtvKLuavXkntU5TVHuvE01GxhSZ_jXzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
