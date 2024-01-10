@@ -33,6 +33,7 @@
                         android:layout_marginEnd="16dp"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintStart_toStartOf="parent"
+                        android:hint="@string/consumerKey"
                         app:layout_constraintTop_toBottomOf="@+id/text_setup">
 
                         <EditText
@@ -40,7 +41,6 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:autofillHints="@string/consumerKey"
-                            android:hint="@string/consumerKey"
                             android:inputType="textPassword" />
 
                     </com.google.android.material.textfield.TextInputLayout>
@@ -51,6 +51,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="8dp"
+                        android:hint="@string/consumerSecret"
                         android:layout_marginEnd="16dp">
 
                         <EditText
@@ -58,7 +59,6 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:autofillHints="@string/consumerSecret"
-                            android:hint="@string/consumerSecret"
                             android:inputType="textPassword" />
 
                     </com.google.android.material.textfield.TextInputLayout>
@@ -69,6 +69,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="8dp"
+                        android:hint="@string/tokenValue"
                         android:layout_marginEnd="16dp">
 
                         <EditText
@@ -76,7 +77,6 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:autofillHints="@string/tokenValue"
-                            android:hint="@string/tokenValue"
                             android:inputType="textPassword" />
 
                     </com.google.android.material.textfield.TextInputLayout>
@@ -87,6 +87,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="16dp"
                         android:layout_marginTop="8dp"
+                        android:hint="@string/tokensSecret"
                         android:layout_marginEnd="16dp">
 
                         <EditText
@@ -94,7 +95,6 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:autofillHints="@string/tokensSecret"
-                            android:hint="@string/tokensSecret"
                             android:inputType="textPassword" />
 
                     </com.google.android.material.textfield.TextInputLayout>

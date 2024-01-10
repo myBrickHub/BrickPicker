@@ -12,6 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:textColorSecondary">@color/textDarkSecondary</item>
     </style>
 
     <style name="Theme.BrickPicker.NoActionBar">
@@ -34,7 +35,7 @@
     </style>
 
     <style name="DetailsCard">
-        <item name="android:background">?android:attr/colorBackgroundCacheHint</item>
+
     </style>
 
     <style name="Theme.BrickPicker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

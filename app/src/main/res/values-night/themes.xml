@@ -15,6 +15,7 @@
         <item name="colorBackgroundFloating">?attr/colorPrimaryVariant</item>
         <item name="android:colorBackgroundFloating" tools:targetApi="23">
             ?attr/colorPrimaryVariant</item>
+        <item name="android:textColorSecondary">@color/textLightSecondary</item>
     </style>
 
     <style name="Theme.BrickPicker.NoActionBar">
@@ -37,7 +38,7 @@
     </style>
 
     <style name="DetailsCard">
-        <item name="android:background">?android:attr/colorBackgroundCacheHint</item>
+
     </style>
 
     <style name="Theme.BrickPicker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

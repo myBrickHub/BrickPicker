@@ -84,7 +84,7 @@
     <string name="dispCostCouponWithLabel">Coupon: %1$s</string>
     <string name="dispCostVatRateWithLabel">VAT Rate: %1$s%%</string>
     <string name="dispCostVatAmountWithLabel">VAT Amount: %1$s</string>
-    <string name="homeLastCheck">No Orders Last Check: %1$s</string>
+    <string name="homeLastCheck">No Orders\n\nLast Check:\n%1$s</string>
     <string name="openSource">Open Source</string>
     <string name="support_the_developer">Support the developer</string>
     <string name="support_the_developer_uri" translatable="false">https://mybrickhub.com</string>

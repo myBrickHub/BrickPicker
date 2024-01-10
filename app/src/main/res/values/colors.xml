@@ -3,6 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="textDarkSecondary">#8A000000</color>
+    <color name="textLightSecondary">#B2FFFFFF</color>
+
+
     <color name="brightLightOrange">#FFC700</color>
     <color name="lightOrange">#FFBC36</color>
     <color name="mediumOrange">#FFA531</color>

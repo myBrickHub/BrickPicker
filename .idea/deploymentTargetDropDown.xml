@@ -10,12 +10,12 @@
               <deviceKey>
                 <Key>
                   <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\tombo\.android\avd\Z-Flip_4_API_32.avd" />
+                  <value value="C:\Users\tombo\.android\avd\Pixel_3a_API_33_x86_64.avd" />
                 </Key>
               </deviceKey>
             </Target>
           </targetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-01-03T17:07:24.557715200Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-01-06T12:21:19.996442200Z" />
         </State>
       </entry>
     </value>
